@@ -2,6 +2,10 @@
 
 This repo hosts the source code for the CTF Movement 2022 write-up
 
+## Write-up
+
+I have written the write-up for solving this challenge [here](https://ehdus.kr/blog/1-mvoementctf).
+
 ## Usage
 ### Aptos Development Prepartion
 
